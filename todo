@@ -1,0 +1,9 @@
+[creating a simple graphic pipline]
+
+  - creating an instance ; [done]
+  - creating a surface to present to; [done]
+  - picking a physical device; [done]
+  - creating a queue; [done]
+  - create the logical device; [done]
+  - create the swapchain; [done]
+  - create the graphics pipeline;
